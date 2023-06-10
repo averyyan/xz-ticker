@@ -1,1 +1,3 @@
-# xz-ticker
+# golang 学习项目
+
+定时器的二次包装
